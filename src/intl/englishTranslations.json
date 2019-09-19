@@ -1,0 +1,9 @@
+{
+    "Add": "add",
+    "add": "add",
+    "Remove": "Remove",
+    "MY_LIST": "My List",
+    "RECOMMENDATIONS": "Recommendations",
+    "EMPTY_MY_LIST_MESSAGE": "Try adding few items to show up on list",
+    "EMPTY_RECOMMENDATIONS_MESSAGE": "That is all the recommendations we have for you"
+}
