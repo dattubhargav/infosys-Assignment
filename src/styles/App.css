@@ -1,13 +1,12 @@
 .App {
   background: black;
-  padding:2% 0 0 2%;
+  padding: 0 0 0 2%;
   height: 100vh;
 }
 
 .header{
   width: 98%;
   height: 4%;
-  background-color: #d2cfcf;
   margin-bottom: 2%;
   display: flex;
   align-items: center;
